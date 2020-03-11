@@ -1,0 +1,6 @@
+.order-date-red, .order-time-red {
+  width: 80%;
+}
+.order-date-red [class^="MuiButtonBase-root"], .order-time-red [class^="MuiButtonBase-root"] {
+  color: rgba(216, 55, 55, 1);
+}

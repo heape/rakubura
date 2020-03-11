@@ -1,0 +1,7 @@
+.no-margin, label[class^="MuiFormControlLabel-root"] {
+  margin: 0;
+}
+
+.no-margin, span[class^="PrivateSwitchBase-root"] {
+  padding: 0 9px;
+}
